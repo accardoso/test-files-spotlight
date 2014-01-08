@@ -1,0 +1,11 @@
+# started 2012-07-22T21:26:13Z
+<http://pt.dbpedia.org/resource/DBpedia_Spotlight> <http://www.w3.org/2000/01/rdf-schema#label> "DBpedia Spotlight"@pt .
+<http://pt.dbpedia.org/resource/Spotlight> <http://www.w3.org/2000/01/rdf-schema#label> "Spotlight"@pt .
+<http://pt.dbpedia.org/resource/Astronomia> <http://www.w3.org/2000/01/rdf-schema#label> "Astronomia"@pt .
+<http://pt.dbpedia.org/resource/Anan\u00E1s> <http://www.w3.org/2000/01/rdf-schema#label> "Anan\u00E1s"@pt .
+<http://pt.dbpedia.org/resource/Abacaxi> <http://www.w3.org/2000/01/rdf-schema#label> "Abacaxi"@pt .
+<http://pt.dbpedia.org/resource/Macaxeira> <http://www.w3.org/2000/01/rdf-schema#label> "Macaxeira"@pt .
+<http://pt.dbpedia.org/resource/American_Video_Entertainment> <http://www.w3.org/2000/01/rdf-schema#label> "American Video Entertainment"@pt .
+<http://pt.dbpedia.org/page/Afonso_I_de_Portugal> <http://www.w3.org/2000/01/rdf-schema#label> "Afonso I de Portugal"@pt .
+<http://pt.dbpedia.org/page/10001_Palermo> <http://www.w3.org/2000/01/rdf-schema#label> "10001 Palermo"@pt .
+# completed 2012-07-22T21:26:20Z
